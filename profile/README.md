@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1463566819976544317/1463566881922482363/Logorectangle.png?ex=69724c60&is=6970fae0&hm=f0816a57bda28ae68b19b74cf412c06204f6fd5cc1be02fa113032f15be47bdc&" width="500">
+  <img align="center" src="https://cdn.discordapp.com/attachments/1463566819976544317/1463566881922482363/Logorectangle.png?ex=69821e60&is=6980cce0&hm=145ceb25fa864425c809f53a7ca66622db8f40f40601be60969f7c738548b39f&" width="500">
 
 
 <h1 align="center">Plustendo</h1>
